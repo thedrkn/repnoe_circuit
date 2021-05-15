@@ -1,0 +1,11 @@
+C:\Users\thedrkn\source\repos\RepnoeProject\bin\Debug\RepnoeProject.exe.config
+C:\Users\thedrkn\source\repos\RepnoeProject\bin\Debug\RepnoeProject.exe
+C:\Users\thedrkn\source\repos\RepnoeProject\bin\Debug\RepnoeProject.pdb
+C:\Users\thedrkn\source\repos\RepnoeProject\obj\Debug\RepnoeProject.csprojAssemblyReference.cache
+C:\Users\thedrkn\source\repos\RepnoeProject\obj\Debug\RepnoeProject.Properties.Resources.resources
+C:\Users\thedrkn\source\repos\RepnoeProject\obj\Debug\RepnoeProject.csproj.GenerateResource.cache
+C:\Users\thedrkn\source\repos\RepnoeProject\obj\Debug\RepnoeProject.csproj.CoreCompileInputs.cache
+C:\Users\thedrkn\source\repos\RepnoeProject\obj\Debug\RepnoeProject.exe
+C:\Users\thedrkn\source\repos\RepnoeProject\obj\Debug\RepnoeProject.pdb
+C:\Users\thedrkn\source\repos\RepnoeProject\obj\Debug\RepnoeProject.Form1.resources
+C:\Users\thedrkn\source\repos\RepnoeProject\obj\Debug\RepnoeProject.Form2.resources
